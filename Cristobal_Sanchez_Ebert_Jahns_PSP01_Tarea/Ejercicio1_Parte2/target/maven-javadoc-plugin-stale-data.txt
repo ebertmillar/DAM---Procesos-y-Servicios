@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Ebert/Documents/NetBeansProjects/PSP01/Ejercicio1_Parte2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ebert/Documents/NetBeansProjects/PSP01/Ejercicio1_Parte2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Ejercicio1_Parte2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Ejercicio1_Parte2 1.0-SNAPSHOT API'
+ejercicio1_parte2
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\src\main\java = 1699542173171
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\allclasses-index.html = 1699642661517
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\allpackages-index.html = 1699642661519
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\element-list = 1699642661474
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\help-doc.html = 1699642661545
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\index-all.html = 1699642661533
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\index.html = 1699642661536
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\jquery-ui.overrides.css = 1699642661562
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\member-search-index.js = 1699642661524
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\module-search-index.js = 1699642661521
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\overview-tree.html = 1699642661505
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\package-search-index.js = 1699642661522
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\script.js = 1699642661549
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\search.js = 1699642661551
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\stylesheet.css = 1699642661547
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\tag-search-index.js = 1699642661525
+C:\Users\Ebert\Documents\NetBeansProjects\PSP01\Ejercicio1_Parte2\target\site\apidocs\type-search-index.js = 1699642661523

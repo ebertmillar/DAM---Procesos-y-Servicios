@@ -1,0 +1,2 @@
+Este es el contenido del ficheroPrueba que vamos a utilizar para realizar la tarea 
+de PSP07, se va a Encriptar este contenido.

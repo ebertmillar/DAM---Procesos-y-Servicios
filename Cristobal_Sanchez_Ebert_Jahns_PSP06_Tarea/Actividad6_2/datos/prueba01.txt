@@ -1,0 +1,3 @@
+Este es un fichero con extension .txt
+El nombre de este fichero es prueba01, si se esta mostrando este mensaje en pantalla
+es por que el programa funciona correctamente 
